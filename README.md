@@ -5,7 +5,7 @@ All final scores are out of 100%. Marks (grades) are assigned according the to p
 
 <p align="center">
   <img src="00_images/mark_breakdown.png" width="500" title="hover text"><br>
-  Figure 1. The distribution of marks according to points. This distribution scheme was devised and is followed by the University of Applied Sciences Bonn-Rhein-Sieg (https://www.h-brs.de/en).
+  Figure 1. The distribution of marks according to points. This distribution scheme is followed by the University of Applied Sciences Bonn-Rhein-Sieg (https://www.h-brs.de/en).
 </p>
 
 ##### Output:
